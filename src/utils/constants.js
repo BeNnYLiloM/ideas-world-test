@@ -1,0 +1,5 @@
+export const API_KEY = '64044d3106158ac7ec961f3b2c6e9194'
+export const BASE_URL = 'https://api.themoviedb.org/3'
+export const IMAGE_URL = 'https://image.tmdb.org/t/p'
+export const IMAGE_ORIGINAL_URL = IMAGE_URL + '/original'
+export const IMAGE_W400_URL = IMAGE_URL + '/w400'
